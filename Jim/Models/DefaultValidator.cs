@@ -15,4 +15,6 @@ namespace Jim
             //RuleFor(r => r.TimeStamp).NotNull().NotEmpty();
         }
     }
+   
+
 }

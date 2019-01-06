@@ -14,7 +14,6 @@ namespace Jim
 {
     public class Util
     {
-
         public static ErrorResponse CreateExceptionResponse(string code,string message,Exception exception = null)
         {
             return new ErrorResponse(code,message, exception);
@@ -22,17 +21,17 @@ namespace Jim
 
         public static DefaultResponse Success(string message,string code="")
         {
-            return  new DefaultResponse(code,message,true);
+            return new DefaultResponse();
         }
 
         public static SuccessResponse<T> SuccessObject<T>(string message, T obj = null, string code="") where T:class
         {
-            return new SuccessResponse<T>(code, message, obj);
+            return new SuccessResponse<T>();
         }
-        public static SuccessListResponse<T> SuccessList<T>(string message, List<T> obj = null, string code = "") where T : class
-        {
-            return new SuccessListResponse<T>(code, message,  obj);
-        }
+        //public static SuccessListResponse<T> SuccessList<T>(string message, List<T> obj = null, string code = "") where T : class
+        //{
+        //    return new SuccessListResponse<T>(code, message,  obj);
+        //}
 
 
         public static LogMessage InitLogMessage(string modName, string actionName, string objectName, string status, string message)

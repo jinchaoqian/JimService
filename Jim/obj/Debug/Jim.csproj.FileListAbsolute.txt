@@ -35,7 +35,6 @@ D:\WorkSpace\Jim\Jim\bin\ServiceStack.Client.dll
 D:\WorkSpace\Jim\Jim\bin\ServiceStack.Common.dll
 D:\WorkSpace\Jim\Jim\bin\ServiceStack.dll
 D:\WorkSpace\Jim\Jim\bin\ServiceStack.Interfaces.dll
-D:\WorkSpace\Jim\Jim\bin\ServiceStack.Text.dll
 D:\WorkSpace\Jim\Jim\bin\System.Buffers.dll
 D:\WorkSpace\Jim\Jim\bin\System.Memory.dll
 D:\WorkSpace\Jim\Jim\bin\System.Runtime.CompilerServices.Unsafe.dll
@@ -63,3 +62,15 @@ D:\WorkSpace\Jim\Jim\bin\AutoMapper.xml
 D:\WorkSpace\Jim\Jim\bin\ServiceStack.OrmLite.xml
 D:\WorkSpace\Jim\Jim\bin\ServiceStack.OrmLite.SqlServer.xml
 D:\WorkSpace\Jim\Jim\obj\Debug\Jim.csprojAssemblyReference.cache
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Redis.dll
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Server.dll
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Redis.xml
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Server.xml
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Logging.Log4Net.dll
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Logging.Log4Net.xml
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Admin.dll
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Admin.xml
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Text.dll
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Text.pdb
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Api.OpenApi.dll
+D:\WorkSpace\Jim\Jim\bin\ServiceStack.Api.OpenApi.xml

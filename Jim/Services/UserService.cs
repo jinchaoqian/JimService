@@ -7,15 +7,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Web;
+using ServiceStack.FluentValidation;
 
 namespace Jim
 {
-    public class UserService : Service
+    [Authenticate]
+    public class UserService : JimBaseService
     {
         private ILog log = LoggerHelper.GetAdoNetLogger("Login", "ADOExchange");
-        public object Post(LoginRequest request)
+
+        [CustomRequestFilter]
+        public object Any(LoginRequest request)
         {
-            
             using (var client = new OrmClient())
             {
                 if (string.IsNullOrEmpty(request.UserName) || string.IsNullOrEmpty(request.Password))
@@ -43,13 +46,14 @@ namespace Jim
             }
         }
 
+
         public object Post(RegisterUserRequest request)
         {
             using (var client = new OrmClient())
             {
                 SysUser user = Mapper.Map<SysUser>(request);
 
-                user.UserPwd = Util.CreateDbPassword(request.UserAccount,request.UserAccount);
+                user.UserPwd = Util.CreateDbPassword(request.UserAccount, request.UserAccount);
 
 
                 var result = client.Insert<SysUser>(user);
@@ -59,54 +63,79 @@ namespace Jim
                 else
                     return Util.Success("注册失败");
             }
+
         }
 
+        #region 单用户
 
-        public object Get(GetUsersRequest request)
+        [Route("/getUser", "GET")]
+        public class GetUserRequest : DefaultRequest<GetUserResponse>
+        {
+            [ApiMember(Name = "UserName", Description = "用户名", DataType = "string", IsRequired = true)]
+
+
+            public string UserName { get; set; }
+        }
+
+        public class GetUserResponse : DefaultResponse<SysUser>
+        {
+
+        }
+
+        public GetUserResponse Get(GetUserRequest request)
+        {
+            using (var client = new OrmClient())
+            {
+                var q = client.Select<SysUser>(u => u.UserName ==request.UserName).FirstOrDefault();
+                return new GetUserResponse
+                {
+                    data = q
+                };
+            }
+        }
+
+        [Route("/getUser/{ID}", "GET")]
+        public class GetUserRequestByID : DefaultRequest<GetUserResponse>
+        {
+            [ApiMember(Name = "ID", Description = "用户主键ID", DataType = "string", IsRequired = true)]
+
+            public string ID { get; set; }
+        }
+        public GetUserResponse Get(GetUserRequestByID request)
+        {
+            using (var client = new OrmClient())
+            {
+                var q = client.Select<SysUser>(u => u.ID == request.ID).FirstOrDefault();
+                return new GetUserResponse
+                {
+                    data = q
+                };
+            }
+        }
+
+        #endregion
+
+        #region 用户列表
+        [Route("/getUserList", "GET")]
+        public class GetUserListRequest : DefaultListRequest<UserListResponse>
+        {
+        }
+        public class UserListResponse : DefaultListResponse<SysUser>
+        {
+        }
+        public object Get(GetUserListRequest request)
         {
             using (var client = new OrmClient())
             {
                 var q = client.Select<SysUser>();
-                q = PageGrid(request, q);
-                return Util.SuccessList("查询成功",q);
+                return PageGrid(request, q);
             }
         }
-
-        public List<Tto> PageGrid<TFrom,Tto>( TFrom page ,IList<Tto> to) 
-            where Tto : class 
-            where TFrom : BaseListRequest
-        {
-            //请求的页码
-            int pageIndex = page.PageIndex;
-            //请求的页大小
-            int pageSize = page.PageSize;
-            //总行数
-            int recordCount = to.Count();
-            //总页数
-            var pageCount = (int)Math.Ceiling((decimal)1.00 * recordCount / pageSize);
-            //如果总页数大于等于请求页码，则用请求页码，否则用当前页码
-            pageIndex = pageCount >= pageIndex ? pageIndex : pageCount;
-            //进行分页操作
-            var q = to.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToList();
-
-            return q;
-        }
+        #endregion
     }
 
 
-    public class BaseListRequest
-    {
-
-        [ApiMember(Name = "PageIndex", Description = "当前页", DataType = "int", IsRequired = true)]
-        public int PageIndex { get; set; }
-
-        [ApiMember(Name = "PageSize", Description = "分页大小", DataType = "int", IsRequired = true)]
-        public int PageSize { get; set; }
-
-        [ApiMember(Name = "Format", Description = "请求格式，默认json", DataType = "string")]
-        public string Format { get; set; } = "json";
-    }
-
+    [CustomResponseFilter]
     public class LoginResponse
     {
         [Alias("status")]
@@ -119,10 +148,21 @@ namespace Jim
         public string currentAuthority { get; set; }
     }
 
-    [Api("login")]
+    public class LoginValidator : AbstractValidator<LoginRequest>
+    {
+        public LoginValidator()
+        {
+            RuleFor(r => r.UserName).NotEmpty().WithMessage("用户名不能为空").WithErrorCode("V001");
+            RuleFor(r => r.Password).NotEmpty().WithMessage("密码不能为空").WithErrorCode("V002");
+            RuleFor(r => r.Type).NotEmpty().WithMessage("登录方式不能为空").WithErrorCode("V003");
+        }
+    }
+    
+    [Api("用户登录")]
     [ApiResponse(HttpStatusCode.BadRequest, "您的请求被搁置")]
     [ApiResponse(HttpStatusCode.InternalServerError, "服务端错误")]
     [Route("/login", "POST", Summary = @"用户登录", Notes = "用户登录")]
+    [Route("/login", "GET", Summary = @"用户登录", Notes = "用户登录")]
     public class LoginRequest:IReturn<LoginResponse>
     {
         [ApiMember(Name = "UserName", Description = "账号", DataType = "string", IsRequired = true)]
@@ -136,22 +176,14 @@ namespace Jim
         public string Type { get; set; }
     }
 
-    [Route("/getUser/{ID}", "GET")]
-    public class GetUserRequest
-    {
-        [ApiMember(Name = "ID", Description = "用户主键ID", DataType = "string", IsRequired = true)]
-        public string ID { get; set; }
-    }
-    [Route("/getUserList", "GET")]
-    public class GetUsersRequest: BaseListRequest
-    {
-    }
+  
+   
 
     [Route("/user/{ID}", "PUT")]
     public class UpdateUserRequest : DBEntity
     {
-        [ApiMember(Name = "ID", Description = "用户主键ID", DataType = "string", IsRequired = true)]
-        public string ID { get; set; }
+        ////[ApiMember(Name = "ID", Description = "用户主键ID", DataType = "string", IsRequired = true)]
+        ////public string ID { get; set; }
     }
 
     [Route("/user/{ID}", "DELETE")]
@@ -161,10 +193,10 @@ namespace Jim
         public string ID { get; set; }
     }
 
-    [Api("register")]
+    [Api("register1")]
     [ApiResponse(HttpStatusCode.BadRequest, "您的请求被搁置")]
     [ApiResponse(HttpStatusCode.InternalServerError, "服务端错误")]
-    [Route("/register", "POST", Summary = @"注册用户", Notes = "注册用户")]
+    [Route("/register1", "POST", Summary = @"注册用户", Notes = "注册用户")]
     public class RegisterUserRequest:DBEntity
     {
         [ApiMember(Name = "UserName", Description = "用户名", DataType = "string", IsRequired = true)]

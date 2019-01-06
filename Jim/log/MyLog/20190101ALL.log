@@ -1,0 +1,31 @@
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+﻿2019-01-01 21:34:46,075 [6] INFO   Jim.UserService Jim.LogMessage
+2019-01-01 22:08:19,471 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:08:19,471 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:08:19,471 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:08:19,471 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:08:19,471 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:08:19,471 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:08:19,491 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:08:19,491 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:08:19,491 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:08:19,491 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:08:19,491 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:08:19,491 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:09:25,570 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:09:25,570 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:09:25,570 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:09:25,570 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:09:25,570 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:09:25,570 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-01 22:09:25,582 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:09:25,582 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:09:25,582 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:09:25,582 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:09:25,582 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-01 22:09:25,582 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists

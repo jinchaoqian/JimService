@@ -1,0 +1,1526 @@
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+﻿2019-01-05 09:42:06,913 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:50:59,022 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 09:51:13,345 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 10:01:56,460 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:35:50,655 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-05 11:35:50,655 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-05 11:35:50,655 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-05 11:35:50,655 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'AssignRoles' at '/assignroles' already exists
+2019-01-05 11:35:50,665 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-05 11:35:50,665 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-05 11:35:50,665 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-05 11:35:50,665 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'UnAssignRoles' at '/unassignroles' already exists
+2019-01-05 11:35:50,673 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'Register' at '/register' already exists
+2019-01-05 11:35:50,673 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'Register' at '/register' already exists
+2019-01-05 11:35:50,673 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'Register' at '/register' already exists
+2019-01-05 11:35:50,673 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'Register' at '/register' already exists
+2019-01-05 11:35:50,673 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'Register' at '/register' already exists
+2019-01-05 11:35:50,673 [1] WARN   ServiceStack.Logging.Log4Net.MyLog4NetLogger Existing Route for 'Register' at '/register' already exists
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:41:25,474 [9] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:42:23,792 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 11:43:51,236 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:33,669 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:34:44,070 [6] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:15,471 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)
+2019-01-05 21:35:24,329 [7] ERROR  ServiceStack.Logging.Log4Net.MyLog4NetLogger Error in GetSession() when ApplyPreAuthenticateFilters
+ServiceStack.HttpError: Invalid Username or Password
+   在 ServiceStack.Auth.CredentialsAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, String userName, String password, String referrerUrl)
+   在 ServiceStack.Auth.BasicAuthProvider.Authenticate(IServiceBase authService, IAuthSession session, Authenticate request)
+   在 ServiceStack.Auth.AuthenticateService.Authenticate(Authenticate request, String provider, IAuthSession session, IAuthProvider oAuthConfig)
+   在 ServiceStack.Auth.AuthenticateService.Post(Authenticate request)
+   在 ServiceStack.Auth.BasicAuthProvider.PreAuthenticate(IRequest req, IResponse res)
+   在 ServiceStack.ServiceStackHost.ApplyPreAuthenticateFilters(IRequest httpReq, IResponse httpRes)
+   在 ServiceStack.ServiceExtensions.GetSession(IRequest httpReq, Boolean reload)

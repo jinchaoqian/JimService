@@ -10,15 +10,14 @@ namespace Jim
 {
     public class ErrorResponse : DefaultResponse
     {
-        public ErrorResponse()
+        public ErrorResponse(string code, string message,Exception e=null)
+            //: base(code, message, false)
         {
+            this.Code = code;
+            this.Message = message;
             this.Success = false;
-        }
-
-        public ErrorResponse(string code,string message,Exception e =null)
-            :base(code,message,false)
-        {
-            this.Exception = e;
+            if (e != null)
+                Exception = e;
         }
 
         [ApiMember(Name = "Exception", Description = "错误信息", DataType = "string", IsRequired = false)]

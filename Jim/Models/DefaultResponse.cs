@@ -9,76 +9,54 @@ namespace Jim
 {
     public class DefaultResponse
     {
-        public DefaultResponse(){}
 
-        public DefaultResponse(string code,string message,bool success)
-        {
-            this.Code = code;
-            this.Message = message;
-            this.Success = success;
-        }
+        //public DefaultResponse(string code,string message,bool success)
+        //{
+        //    this.Success = success;
+        //    this.Message = message;
+        //    this.Code = code;
+        //}
 
-        /// <summary>
-        /// 返回结果
-        /// </summary>
-        /// <value>返回结果</value>
-        [ApiMember(Name = "Success", Description = "是否请求成功", DataType = "bool", IsRequired = true)]
         public bool Success { get; set; }
-
-        /// <summary>
-        /// 返回消息
-        /// </summary>
-        /// <value>返回消息</value>
-        [ApiMember(Name = "Message", Description = "接口返回信息", DataType = "string", IsRequired = false)]
-        public string Message { get; set; }
-
-        /// <summary>
-        /// 返回消息
-        /// </summary>
-        /// <value>返回消息</value>
-        [ApiMember(Name = "Code", Description = "接口返回代码", DataType = "string", IsRequired = false)]
         public string Code { get; set; }
-        
+
+        public string Message { get; set; }
     }
 
-    public class DefaultResponse<T>:DefaultResponse where T:class 
+    public class DefaultResponse<T>:DefaultResponse
     {
-        public DefaultResponse()
-        {
-        }
 
-        public DefaultResponse(string code, string message,object obj)
-        :base(code,message,true)
-        {
-        }
-
+        //public DefaultResponse(string code, string message, bool success)
+        //:base(code,message,success)
+        //{
+        //}
         /// <summary>
         /// 返回对象
         /// </summary>
         /// <value>返回消息</value>
-        [ApiMember(Name = "Data", Description = "返回对象", DataType = "object", IsRequired = false)]
-        public T Data { get; set; }
+        [ApiMember(Name = "data", Description = "返回对象", DataType = "object", IsRequired = false)]
+        public T data { get; set; }
 
     }
 
-    public class DefaultListResponse<T> : DefaultResponse where T : class
+    public class DefaultListResponse<T> : DefaultResponse 
     {
-        public DefaultListResponse()
-        {
-        }
+        //public DefaultListResponse(string code, string message, bool success)
+        //    : base(code, message, success)
+        //{
+        //}
+        public string id {get;set;}
 
-        public DefaultListResponse(string code, string message, List<T> obj)
-            : base(code, message, true)
-        {
-            this.Data = obj;
-        }
+        public List<T> list { get; set; }
 
-        /// <summary>
-        /// 返回对象集合
-        /// </summary>
-        /// <value>返回消息</value>
-        [ApiMember(Name = "List", Description = "返回对象集合", DataType = "object", IsRequired = false)]
-        public List<T> Data { get; set; }
-
+        public pagination pagination { get; set; }
     }
+
+    public class pagination
+    {
+        public int total { get; set; }
+        public int pageSize { get; set; }
+        public int current { get; set; }
+    }
+    
 }

@@ -38,7 +38,6 @@ namespace Jim.Utils.Sql
                 case DatabaseType.Sqlite:
                     throw new ArgumentNullException("未实现该方法");
                     //connection = new System.Data.OleDb.OleDbConnection(strConn);
-                    break;
             }
             return connection;
         }

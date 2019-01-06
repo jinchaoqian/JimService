@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServiceStack.Logging.Log4Net</name>
+    </assembly>
+    <members>
+        <member name="T:ServiceStack.Logging.Log4Net.Log4NetFactory">
+            <summary>
+            ILogFactory that creates an Log4Net ILog logger
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetFactory.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ServiceStack.Logging.Log4Net.Log4NetFactory"/> class.
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetFactory.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ServiceStack.Logging.Log4Net.Log4NetFactory"/> class.
+            </summary>
+            <param name="configureLog4Net">if set to <c>true</c> [will use the xml definition in App.Config to configure log4 net].</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetFactory.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ServiceStack.Logging.Log4Net.Log4NetFactory"/> class.
+            </summary>
+            <param name="log4NetConfigurationFile">The log4 net configuration file to load and watch. If not found configures from App.Config.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetFactory.GetLogger(System.Type)">
+            <summary>
+            Gets the logger.
+            </summary>
+            <param name="type">The type.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetFactory.GetLogger(System.String)">
+            <summary>
+            Gets the logger.
+            </summary>
+            <param name="typeName">Name of the type.</param>
+            <returns></returns>
+        </member>
+        <member name="T:ServiceStack.Logging.Log4Net.Log4NetLogger">
+            <summary>
+            Wrapper over the log4net.1.2.10 and above logger 
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.#ctor(System.Type)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ServiceStack.Logging.Log4Net.Log4NetLogger"/> class.
+            </summary>
+            <param name="type">The type.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Debug(System.Object)">
+            <summary>
+            Logs a Debug message.
+            </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Debug(System.Object,System.Exception)">
+            <summary>
+            Logs a Debug message and exception.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="exception">The exception.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Debug(System.Exception,System.String,System.Object[])">
+            <summary>
+            Logs a Debug format message and exception.
+            </summary>
+            <param name="exception">Exception related to the event.</param>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.DebugFormat(System.String,System.Object[])">
+            <summary>
+            Logs a Debug format message.
+            </summary>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Error(System.Object)">
+            <summary>
+            Logs a Error message.
+            </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Error(System.Object,System.Exception)">
+            <summary>
+            Logs a Error message and exception.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="exception">The exception.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Error(System.Exception,System.String,System.Object[])">
+            <summary>
+            Logs an Error format message and exception.
+            </summary>
+            <param name="exception">Exception related to the event.</param>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.ErrorFormat(System.String,System.Object[])">
+            <summary>
+            Logs a Error format message.
+            </summary>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Fatal(System.Object)">
+            <summary>
+            Logs a Fatal message.
+            </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Fatal(System.Object,System.Exception)">
+            <summary>
+            Logs a Fatal message and exception.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="exception">The exception.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Fatal(System.Exception,System.String,System.Object[])">
+            <summary>
+            Logs a Fatal format message and exception.
+            </summary>
+            <param name="exception">Exception related to the event.</param>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.FatalFormat(System.String,System.Object[])">
+            <summary>
+            Logs a Error format message.
+            </summary>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Info(System.Object)">
+            <summary>
+            Logs an Info message and exception.
+            </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Info(System.Object,System.Exception)">
+            <summary>
+            Logs an Info message and exception.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="exception">The exception.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Info(System.Exception,System.String,System.Object[])">
+            <summary>
+            Logs an Info format message and exception.
+            </summary>
+            <param name="exception">Exception related to the event.</param>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.InfoFormat(System.String,System.Object[])">
+            <summary>
+            Logs an Info format message.
+            </summary>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Warn(System.Object)">
+            <summary>
+            Logs a Warning message.
+            </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Warn(System.Object,System.Exception)">
+            <summary>
+            Logs a Warning message and exception.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="exception">The exception.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.Warn(System.Exception,System.String,System.Object[])">
+            <summary>
+            Logs a Warn format message and exception.
+            </summary>
+            <param name="exception">Exception related to the event.</param>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+        <member name="M:ServiceStack.Logging.Log4Net.Log4NetLogger.WarnFormat(System.String,System.Object[])">
+            <summary>
+            Logs a Warning format message.
+            </summary>
+            <param name="format">The format.</param>
+            <param name="args">The args.</param>
+        </member>
+    </members>
+</doc>

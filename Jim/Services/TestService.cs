@@ -129,12 +129,7 @@ namespace Jim
         public  pagination pagination { get; set; }
     }
 
-    public class pagination
-    {
-        public int total { get; set; }
-        public int pageSize { get; set; }
-        public int current { get; set; }
-    }
+   
 
     public class GridRow
     {
